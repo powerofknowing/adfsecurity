@@ -5,10 +5,10 @@
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
-			"connectionString": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=test-edlprod1-dbs.database.windows.net;Initial Catalog=blog-adfv2sec-sqldb"
+			"connectionString": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=az500-adfsec-sqlsrv.database.windows.net;Initial Catalog=az500-adfsec-sqldb"
 		},
 		"connectVia": {
-			"referenceName": "blog-adfv2sec-shir",
+			"referenceName": "az500-adfsec-shir",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
