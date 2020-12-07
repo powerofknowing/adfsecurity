@@ -4,13 +4,13 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://blog-adfv2sec-fun.azurewebsites.net/api/blogmetadataHTTP?code=qIxoZazx7fmvjHGWmANieMyra3dmePt89SnDQHlSVWmMx2ahBZ3v3A==",
+			"url": "https://az500adfsecazfunc.azurewebsites.net/api/HttpExample?code=y0yTFp5ddzTbZTE5D9rWHvU80EW08m0uhu7Ecau8pCZGWSkmlrKvxw==",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "ManagedServiceIdentity",
-			"aadResourceId": "https://blog-adfv2sec-fun.azurewebsites.net"
+			"aadResourceId": "https://az500adfsecazfunc.azurewebsites.net"
 		},
 		"connectVia": {
-			"referenceName": "blog-adfv2sec-shir",
+			"referenceName": "az500-adfsec-shir",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
