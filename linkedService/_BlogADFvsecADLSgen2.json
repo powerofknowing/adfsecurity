@@ -4,10 +4,10 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://blogadfv2secstor.dfs.core.windows.net"
+			"url": "https://az500adfsecadl.dfs.core.windows.net"
 		},
 		"connectVia": {
-			"referenceName": "blog-adfv2sec-shir",
+			"referenceName": "az500-adfsec-shir",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
