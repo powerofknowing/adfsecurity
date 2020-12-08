@@ -6,8 +6,7 @@
 		"typeProperties": {
 			"url": "https://az500adfsecazfunc.azurewebsites.net/api/HttpExample?code=y0yTFp5ddzTbZTE5D9rWHvU80EW08m0uhu7Ecau8pCZGWSkmlrKvxw==",
 			"enableServerCertificateValidation": true,
-			"authenticationType": "ManagedServiceIdentity",
-			"aadResourceId": "https://az500adfsecazfunc.azurewebsites.net"
+			"authenticationType": "Anonymous"
 		},
 		"connectVia": {
 			"referenceName": "az500-adfsec-shir",
